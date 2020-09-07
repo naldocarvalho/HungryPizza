@@ -19,4 +19,12 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Configuration\" />
+    <Folder Include="Dtos\" />
+    <Folder Include="General\" />
+    <Folder Include="Scenarios\" />
+    <Folder Include="Rest\" />
+  </ItemGroup>
+
 </Project>

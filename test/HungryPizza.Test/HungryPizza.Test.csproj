@@ -19,4 +19,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="Infra\Services\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
 </Project>
